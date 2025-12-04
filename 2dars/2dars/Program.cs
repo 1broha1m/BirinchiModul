@@ -668,7 +668,7 @@ internal class Program
         }
         */
 
-
+        Console.WriteLine("Hello mzd");
 
     }
 }
