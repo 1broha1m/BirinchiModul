@@ -6,6 +6,9 @@ internal class Program
     {
         //1.3.1-_3_dars
 
+
+
+
         //1.3.1.1 - mawq
         //for (var i = 1; i <= 20; i++)
         //{
@@ -424,19 +427,49 @@ internal class Program
 
 
 
-        Console.WriteLine("1-sonni kiriting : ");
-        var firstValue = int.Parse(Console.ReadLine());
-        Console.WriteLine("2 sonni kiriting : ");
-        var secondValue = int.Parse(Console.ReadLine());
+        //1.3.1.30 - mawq
+        //Console.Write("1-sonni kiriting : ");
+        //var firstValue = int.Parse(Console.ReadLine());
+        //Console.Write("2 sonni kiriting : ");
+        //var secondValue = int.Parse(Console.ReadLine());
 
 
-        var total = 0;
+        //var total = 0;
 
-        for(var i = firstValue + 1; i < secondValue; i++)
-        {
-            total += i;
-        }
+        //for(var i = firstValue + 1; i < secondValue; i++)
+        //{
+        //    total += i;
+        //}
 
-        Console.Write($"{total}");
+        //Console.Write($"{total}");
+
+
+
+
+        //1.3.1.31 - mawq
+        //Console.Write("1 kg konfet nech pul : ");
+        //var firstValue = double.Parse(Console.ReadLine());
+
+        //for (var i = 1.0; i < firstValue;)
+        //{
+        //    Console.WriteLine($"{i} kg konfet narxi {i * firstValue} so'm");
+        //    i += 0.1;
+        //}  
+
+
+
+        //1.3.1.33 - mawq
+        //Console.Write("1-Sonni kiriting : ");
+        //var firstValue = int.Parse(Console.ReadLine());
+        //Console.Write("2-Sonni kiriting : ");
+        //var secondtValue = int.Parse(Console.ReadLine());
+
+        //var total = firstValue;
+        //for (int i = 1; i < secondtValue; i++) 
+        //{
+        //    Console.WriteLine($"{total*firstValue}");
+        //    total *= firstValue;
+        //}
+
     }
 }
