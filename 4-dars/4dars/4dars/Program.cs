@@ -15,7 +15,6 @@ internal class Program
     {
         Console.Write("1-sonni kiriting : ");
         var firstValue = int.Parse(Console.ReadLine());
-        Console.Write("2-sonni kiriting : ");
         var secondValue = int.Parse(Console.ReadLine());
 
         Console.Write(TotalInt(firstValue, secondValue));

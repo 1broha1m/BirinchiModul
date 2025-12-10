@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "5-dars": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
